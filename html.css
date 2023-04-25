@@ -1,0 +1,22 @@
+.tentruong{
+    text-align: center;
+}
+.thongtin2 {
+    background-color: white;
+    width: 70%;
+    height: auto;
+    margin-left: 15%;
+}
+.anh2 {
+    text-align: center;
+}
+.thongtin3 {
+    background-color: white;
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+}
+.link a{
+    text-decoration: none;
+    color: black;
+}
